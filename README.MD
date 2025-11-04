@@ -4,15 +4,13 @@
 
 
            .             ​ seymon@arch 
-          .c.           ┌───────────────────────────────┐ 
+          .c.      
          .ccc.           ​ OS : Arch Linux 
         .lllll.          ​ Kernel : x86_64 Linux 
        ..;'olll.         ​ Uptime : 17 years
       .dolllcccl.        ​ Shell : zsh
      .lcc'   'ccc.       ​ DE : Hyprland
     .ccc'     'cc:.      ​ CPU : Intel Xeon E5-2560 v3
-   .cccc'     'c:;..    └───────────────────────────┘ 
-  ."'             '".     A   R   C   H    火 
 
 ## 🛠️ Мои проекты
 
