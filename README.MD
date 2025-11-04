@@ -17,7 +17,6 @@
      loala   aashdk       ​     DE : Cosmic
     local     intelx      ​      CPU : Intel Xeon E5-2560 v3
    linuxx     lovelo    └───────────────────────────────────┘ 
-  111             111     A   R   C   H    火 
 
 
 
