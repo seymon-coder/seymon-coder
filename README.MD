@@ -1,24 +1,22 @@
-
 # 🔓 Привет, я Никита! 
 
 **17-летний исследователь безопасности и разработчик**
 
-
-
-
-
-
-
-           .             ​          seymon@arch 
-          .c.           ┌─────────────────────────────────┐ 
+<div align="center">
+<pre>
+           .             ​ seymon@arch 
+          .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : Arch Linux 
-        .lllll.          ​  Kernel : x86_64 Linux 
-       ..;'olll.         ​   Uptime : 17 years
-      .dolllcccl.        ​    Shell : odl
-     .lcc'   'ccc.       ​     DE : Cosmic
-    .ccc'     'cc:.      ​      CPU : Intel Xeon E5-2560 v3
-   .cccc'     'c:;..    └─────────────────────────────────┘ 
+        .lllll.          ​ Kernel : x86_64 Linux 
+       ..;'olll.         ​ Uptime : 17 years
+      .dolllcccl.        ​ Shell : zsh
+     .lcc'   'ccc.       ​ DE : Hyprland
+    .ccc'     'cc:.      ​ CPU : Intel Xeon E5-2560 v3
+   .cccc'     'c:;..    └───────────────────────────────┘ 
+  ."'             '".     A   R   C   H    火 
 
+</pre>
+</div>
 
 ## 🛠️ Мои проекты
 
