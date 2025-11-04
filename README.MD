@@ -13,7 +13,7 @@
      .lcc'   'ccc.       ​ DE : Hyprland
     .ccc'     'cc:.      ​ CPU : Intel Xeon E5-2560 v3
    .cccc'     'c:;..    └───────────────────────────────┘ 
-  ."'             '".     A   R   C   H    火 
+  ."'             '".      
 
 </pre>
 </div>
