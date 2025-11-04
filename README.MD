@@ -8,16 +8,17 @@
 
 
 
-           h             ​         seymon@arch 
-          hhh           ┌───────────────────────────────────┐ 
-         aaaa           ​ OS : Arch Linux 
-        lllllll          ​  Kernel : x86_64 Linux 
-       kkkkkkkkk         ​   Uptime : 17 years
-      dlxdlxdlxdlx        ​    Shell : zsh
-     loala   aashdk       ​     DE : Cosmic
-    local     intelx      ​      CPU : Intel Xeon E5-2560 v3
-   linuxx     lovelo    └───────────────────────────────────┘ 
 
+           .             ​          seymon@arch 
+          .c.           ┌─────────────────────────────────┐ 
+         .ccc.           ​ OS : Arch Linux 
+        .lllll.          ​  Kernel : x86_64 Linux 
+       ..;'olll.         ​   Uptime : 17 years
+      .dolllcccl.        ​    Shell : odl
+     .lcc'   'ccc.       ​     DE : Cosmic
+    .ccc'     'cc:.      ​      CPU : Intel Xeon E5-2560 v3
+   .cccc'     'c:;..    └─────────────────────────────────┘ 
+  ."'             '".     A   R   C   H    火 
 
 
 ## 🛠️ Мои проекты
