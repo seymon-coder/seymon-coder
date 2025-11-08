@@ -17,7 +17,7 @@
 ### [RKN GDI](https://github.com/seymon-coder/rkn-gdi)
 Инструмент для работы с GDI-системой Windows с функциями обхода защит
 
-### [Easy Unlocker](https://github.com/seymon-coder/easyunlocker)
+### [SenyUnLocker](https://github.com/seymon-coder/senyunlocker)
 Утилита для исследования методов разблокировки и обхода системных ограничений
 
 ## 📊 Статистика GitHub
