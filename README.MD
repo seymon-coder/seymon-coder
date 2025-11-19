@@ -20,6 +20,9 @@
 ### [SenyUnLocker](https://github.com/seymon-coder/senyunlocker)
 Утилита для исследования методов разблокировки и обхода системных ограничений
 
+### [HeCyber-Team Site](https://github.com/seymon-coder/bios)
+Сайт для недохакеров
+
 ## 📊 Статистика GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=seymon-coder&show_icons=true&theme=dark)
